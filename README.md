@@ -7,3 +7,5 @@
 具，並運用Latent	Dirichlet	allocation	(	LDA	),	Support	vector	machine	(	SVM	)	以及	
 Word2Vector	等文字探勘方法技術。研究成果製作出可提供歷史科測驗選擇題自動分類的模
 組，並完成伺服器以及網站介面等系統架構方便使用者進行雲端計算。
+
+https://drive.google.com/file/d/1Dx8XmHxzyzsLLg7VNSFc-doiejRLj4rx/view?usp=sharing
